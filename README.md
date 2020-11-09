@@ -1,6 +1,5 @@
 # my-website
+
 this is awesome website
 
-on update-readme branch
-
-more update
+Updates made on masters on Github before rebase
